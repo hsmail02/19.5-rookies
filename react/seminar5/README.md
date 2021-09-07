@@ -7,18 +7,22 @@
 ## 수업 내용
 
 ------------------
-1. JS가 최선일까
-   - Typescript
 1. css 가 최선일까
+   - css 의 문제점
    - sass
    - css-in-js
    - design library
       - material-ui
+      - semantic-ui-react
+      - react-bootstrap
 1. create-react-app 이 최선일까
    - NextJS
    - GatsbyJS
 1. 과연 react 는 최선일까
-   - svelte
+   - svelte, angular, vue, ...
+1. 웹 접근성
+   - tabIndex
+   - og, alt, role, lang
 
 ## 세미나 자료
 

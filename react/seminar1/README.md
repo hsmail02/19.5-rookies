@@ -29,8 +29,8 @@
 ## 세미나 자료
 
 ------------------
-[제작 중](https://docs.google.com/presentation/d/1hZbGqQFWWNJ3axvaRnQE24keNCmOWMz_u_iXZWG_3yQ/edit?usp=sharing)
+[PPT](https://docs.google.com/presentation/d/1hZbGqQFWWNJ3axvaRnQE24keNCmOWMz_u_iXZWG_3yQ/edit?usp=sharing)
 
 ## 과제
 - [assignment.md](assignment.md)
-- due: 2021.09.12 (일) 23:59
+- due: 2021.09.11 (토) 12:00
